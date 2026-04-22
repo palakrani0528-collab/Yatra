@@ -5,30 +5,18 @@
 ---
 
 ## 📸 Screenshots
-
-| Home Page | About / Core Values |
-|-----------|---------------------|
-| ![Home](screenshots/home.png) | ![About](screenshots/about.png) |
-
-| Destinations | Exclusive Travel Deals |
-|--------------|------------------------|
-| ![Destinations](screenshots/destinations.png) | ![Deals](screenshots/deals.png) |
-
-| Hotel Listings | Transport Options |
-|----------------|-------------------|
-| ![Hotels](screenshots/hotels.png) | ![Transport](screenshots/transport.png) |
-
-| Recently Visited Locations | Traveller Reviews |
-|----------------------------|-------------------|
-| ![Locations](screenshots/locations.png) | ![Reviews](screenshots/reviews.png) |
-
-| Latest Articles | Footer |
-|-----------------|--------|
-| ![Articles](screenshots/articles.png) | ![Footer](screenshots/footer.png) |
-
-> 💡 **How to add screenshots:** Create a `screenshots/` folder in your repo, drop your images in, and rename them to match the filenames above.
-
----
+<img width="1600" height="764" alt="TRANSPORT" src="https://github.com/user-attachments/assets/145d8856-1310-420b-a562-e29647b67adf" />
+<img width="1600" height="437" alt="STAY" src="https://github.com/user-attachments/assets/46c7d5a1-cf33-434e-ac06-66ccbe9e74b6" />
+<img width="1600" height="650" alt="RECENTLY VISITED" src="https://github.com/user-attachments/assets/034ce148-9e2d-4138-a2b1-8aed1fd22ccd" />
+<img width="1600" height="767" alt="P3" src="https://github.com/user-attachments/assets/286d30ea-8181-4353-8d2e-b208c14c310b" />
+<img width="1600" height="777" alt="P2" src="https://github.com/user-attachments/assets/3795b2ed-acba-4ee7-a784-29a0a4e849d7" />
+<img width="1600" height="763" alt="P1" src="https://github.com/user-attachments/assets/616d6a04-4391-4359-891c-5df015c87893" />
+<img width="1600" height="695" alt="END2" src="https://github.com/user-attachments/assets/b1b0ab3c-fe0a-44cd-b304-44e609e877ca" />
+<img width="1600" height="729" alt="END" src="https://github.com/user-attachments/assets/80fedf13-0bf4-4275-b8de-f17eaf5c2e23" />
+<img width="1600" height="760" alt="AUTHORS" src="https://github.com/user-attachments/assets/e38b05f5-78e3-4f91-8d1b-b096a1a0f962" />
+<img width="1600" height="753" alt="ARTICLE" src="https://github.com/user-attachments/assets/27dd9fb1-b03b-4f1d-aed7-0ee3091922f4" />
+<img width="1600" height="761" alt="aBOVE TRANSPORT" src="https://github.com/user-attachments/assets/9dc520e1-0054-46f0-a4a1-a4a31137d2d4" />
+<img width="1600" height="734" alt="ABOVE STAY" src="https://github.com/user-attachments/assets/3428dfee-c26e-4e2f-8a24-26e29e7d3da1" />
 
 ## 📌 Table of Contents
 
